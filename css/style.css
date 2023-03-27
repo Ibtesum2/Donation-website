@@ -15,7 +15,7 @@ font-family: 'Poppins', sans-serif;
 
 
 .main-header{
-    width: 800px;
+    width: 100%;
     padding: 100px;
     margin: 0 auto;
     text-align: center;
@@ -27,7 +27,7 @@ font-family: 'Poppins', sans-serif;
     
     background-image: url('../images/donation13.jpg');
     background-repeat: no-repeat;
-    height: 100vh;
+    
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -206,8 +206,8 @@ ul li a:hover{
     grid-template-columns: 1fr 1fr;
    width: 90%;
     margin: 0 auto;
-   
     margin-bottom: 100px;
+
 }
 
 .survive-cd-1{
@@ -234,6 +234,9 @@ ul li a:hover{
 .survive-cd-1, h1,p,.btn-header{
     margin-bottom: 6px;
 }
-    
+
+.donate-update-title{
+  text-align: center;
+}
 
 
