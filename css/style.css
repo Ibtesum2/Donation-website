@@ -363,7 +363,7 @@ hr{
 
     .donation-cards{
         flex-direction: column;
-        width:90%;
+        max-width: 90%;
       
 
     }  
@@ -399,20 +399,15 @@ hr{
 
     .card1{
         flex-direction: column;
-        width: 350px;
     }
 
     .card2{
         flex-direction: column;
-        width:350px;
     }
 
     .card3{
         flex-direction: column;
-        width: 350px;
     }
-
-
 
     
 
