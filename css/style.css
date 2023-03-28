@@ -358,12 +358,12 @@ hr{
     }
 
     .Section-f-paragraph{
-        font-size: x-large;
+        font-size: 20px ;
     }
 
     .donation-cards{
         flex-direction: column;
-        width:100%;
+        width:80%;
         align-items: center;
 
     }  
@@ -381,6 +381,15 @@ hr{
 
     .footer{
         width: 100%;
+    }
+
+    .donate1-img{
+        width: 80%;
+    }
+
+
+    .footer-ending{
+        font-size: xx-large;
     }
 
     
