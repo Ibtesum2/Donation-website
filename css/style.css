@@ -363,7 +363,7 @@ hr{
 
     .donation-cards{
         flex-direction: column;
-        max-width: 80%;
+        max-width: 100%
       
 
     }  
