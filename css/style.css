@@ -363,8 +363,8 @@ hr{
 
     .donation-cards{
         flex-direction: column;
-        width:80%;
-        align-items: center;
+        width:90%;
+      
 
     }  
 
@@ -387,9 +387,14 @@ hr{
         width: 80%;
     }
 
+    .donate1-img1{
+        width: 80%;
+    }
+
+
 
     .footer-ending{
-        font-size: xx-large;
+        font-size: x-large;
     }
 
     
