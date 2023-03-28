@@ -397,6 +397,20 @@ hr{
         font-size: x-large;
     }
 
+    .card1{
+        flex-direction: column;
+    }
+
+    .card2{
+        flex-direction: column;
+    }
+
+    .card3{
+        flex-direction: column;
+    }
+
+
+
     
 
 
