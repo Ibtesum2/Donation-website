@@ -249,7 +249,7 @@ hr{
 }
 
 .donate-card1{
-    width: 40%;
+    width: 35%;
 
     
 }
@@ -363,7 +363,7 @@ hr{
 
     .donation-cards{
         flex-direction: column;
-        max-width: 100%
+        
       
 
     }  
@@ -399,14 +399,17 @@ hr{
 
     .card1{
         flex-direction: column;
+        width: 250px;
     }
 
     .card2{
         flex-direction: column;
+        width: 250px;
     }
 
     .card3{
         flex-direction: column;
+        width: 250px;
     }
 
     
